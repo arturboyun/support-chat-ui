@@ -7,6 +7,8 @@
 - [ ] Auth support
 - [ ] Multiple Chats support
 
+![Preview](https://github.com/arturboyun/support-chat-ui/blob/main/blob/image.jpg?raw=true)
+
 ## Setup
 
 Make sure to install the dependencies:
