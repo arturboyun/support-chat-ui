@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition-colors;
+  @apply duration-300;
+}
+
+body {
+  @apply bg-white;
+  @apply text-black;
+  @apply dark:bg-black;
+  @apply dark:text-white;
+}
+
+::-webkit-scrollbar {
+  @apply w-2;
+  @apply dark:w-2;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  @apply bg-gray-800;
+  @apply dark:bg-gray-800;
+  @apply rounded-full;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-500;
+  @apply hover:bg-gray-400;
+  @apply active:bg-gray-600;
+  @apply dark:bg-gray-400;
+  @apply dark:hover:bg-gray-300;
+  @apply dark:active:bg-gray-500;
+  @apply rounded-full;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400;
+}
