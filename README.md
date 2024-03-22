@@ -1,4 +1,9 @@
-# Freelance Platform UI
+# UI For Support Chat
+
+# TODO:
+- [x] Chat functional
+- [ ] Auth support
+- [ ] Multiple Chats support
 
 ## Setup
 
