@@ -2,11 +2,12 @@
 
 ### Nuxt3 + Tailwindcss + WebSockets
 
-# TODO:
+## TODO:
 - [x] Chat functional
 - [ ] Auth support
 - [ ] Multiple Chats support
 
+## Preview:
 ![Preview](https://github.com/arturboyun/support-chat-ui/blob/main/blob/image.png?raw=true)
 
 ## Setup
