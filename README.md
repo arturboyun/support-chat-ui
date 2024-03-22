@@ -7,6 +7,8 @@
 - [ ] Auth support
 - [ ] Multiple Chats support
 
+_You can found backend for this project [here](https://github.com/arturboyun/support-chat-backend)_
+
 ## Preview:
 ![Preview](https://github.com/arturboyun/support-chat-ui/blob/main/blob/image.png?raw=true)
 
