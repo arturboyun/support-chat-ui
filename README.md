@@ -1,4 +1,6 @@
-# UI For Support Chat
+# UI for Support Chat
+
+# Nuxt3 + Tailwindcss + WebSockets
 
 # TODO:
 - [x] Chat functional
