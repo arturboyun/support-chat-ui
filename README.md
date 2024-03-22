@@ -7,7 +7,7 @@
 - [ ] Auth support
 - [ ] Multiple Chats support
 
-![Preview](https://github.com/arturboyun/support-chat-ui/blob/main/blob/image.jpg?raw=true)
+![Preview](https://github.com/arturboyun/support-chat-ui/blob/main/blob/image.png?raw=true)
 
 ## Setup
 
